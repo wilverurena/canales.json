@@ -1,0 +1,24 @@
+{
+  "url_base": "https://embed.ksdjugfsddeports.fun/embed2/",
+  "canales": [
+    {
+      "id": "tnt-novelas",
+      "nombre": "TNT Novelas",
+      "slug": "tntnovelas.html" 
+    },
+    {
+      "id": "cartoon-network",
+      "nombre": "Cartoon Network",
+      "slug": "cartoonnetwork.html" 
+    },
+    {
+      "id": "espn-deportes",
+      "nombre": "ESPN Deportes",
+      "slug": "espndeportes.html"
+    }
+    // Añade aquí cada uno de tus canales.
+    // Asegúrate de que el "id" (en minúsculas y con guiones en lugar de espacios)
+    // coincida con el nombre normalizado del canal que usarías en tu HTML
+    // y que el "slug" sea la parte de la URL que cambia.
+  ]
+}
