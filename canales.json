@@ -9,38 +9,32 @@
     {
       "id": "universal-cinema",
       "nombre": "Universal Cinema",
-      "slug": "universalcinema.html" 
-      // Asumiendo que el slug es universalcinema.html. ¡VERIFÍCALO!
+      "slug": "universalcinema.html"
     },
     {
       "id": "nick-jr",
       "nombre": "Nick Jr",
-      "slug": "nickjr.html" 
-      // Asumiendo que el slug es nickjr.html. ¡VERIFÍCALO!
+      "slug": "nickjr.html"
     },
     {
       "id": "nick",
       "nombre": "Nick",
-      "slug": "nick.html" 
-      // Asumiendo que el slug es nick.html. ¡VERIFÍCALO!
+      "slug": "nick.html"
     },
     {
       "id": "discovery-kids",
       "nombre": "Discovery Kids",
-      "slug": "discoverykids.html" 
-      // Asumiendo que el slug es discoverykids.html. ¡VERIFÍCALO!
+      "slug": "discoverykids.html"
     },
     {
       "id": "telemundo-51",
       "nombre": "Telemundo 51",
-      "slug": "telemundo51.html" 
-      // Asumiendo que el slug es telemundo51.html. ¡VERIFÍCALO!
+      "slug": "telemundo51.html"
     },
     {
       "id": "telemundo-puerto-rico",
       "nombre": "Telemundo Puerto Rico",
-      "slug": "telemundopuertorico.html" 
-      // Asumiendo que el slug es telemundopuertorico.html. ¡VERIFÍCALO!
+      "slug": "telemundopuertorico.html"
     },
     {
       "id": "cartoon-network",
@@ -50,16 +44,12 @@
     {
       "id": "disney-channel",
       "nombre": "Disney Channel",
-      "slug": "disneychannel.html" 
-      // Asumiendo que el slug es disneychannel.html. ¡VERIFÍCALO!
+      "slug": "disneychannel.html"
     },
     {
       "id": "fox-sports-premium",
       "nombre": "Fox Sports Premium",
-      "slug": "foxsportspremium.html" 
-      // Asumiendo que el slug es foxsportspremium.html. ¡VERIFÍCALO!
+      "slug": "foxsportspremium.html"
     }
-    // Si tienes más canales, agrégalos aquí.
-    // Recuerda que el *último* elemento en esta lista NO debe tener una coma al final.
   ]
 }
