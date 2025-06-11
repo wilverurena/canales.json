@@ -10,37 +10,37 @@
       "id": "universal-cinema",
       "nombre": "Universal Cinema",
       "slug": "universalcinema.html" 
-      // Asumiendo que el slug es universalcinema.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es universalcinema.html. ¡VERIFÍCALO!
     },
     {
       "id": "nick-jr",
       "nombre": "Nick Jr",
       "slug": "nickjr.html" 
-      // Asumiendo que el slug es nickjr.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es nickjr.html. ¡VERIFÍCALO!
     },
     {
       "id": "nick",
       "nombre": "Nick",
       "slug": "nick.html" 
-      // Asumiendo que el slug es nick.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es nick.html. ¡VERIFÍCALO!
     },
     {
       "id": "discovery-kids",
       "nombre": "Discovery Kids",
       "slug": "discoverykids.html" 
-      // Asumiendo que el slug es discoverykids.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es discoverykids.html. ¡VERIFÍCALO!
     },
     {
       "id": "telemundo-51",
       "nombre": "Telemundo 51",
       "slug": "telemundo51.html" 
-      // Asumiendo que el slug es telemundo51.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es telemundo51.html. ¡VERIFÍCALO!
     },
     {
       "id": "telemundo-puerto-rico",
       "nombre": "Telemundo Puerto Rico",
       "slug": "telemundopuertorico.html" 
-      // Asumiendo que el slug es telemundopuertorico.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es telemundopuertorico.html. ¡VERIFÍCALO!
     },
     {
       "id": "cartoon-network",
@@ -51,13 +51,15 @@
       "id": "disney-channel",
       "nombre": "Disney Channel",
       "slug": "disneychannel.html" 
-      // Asumiendo que el slug es disneychannel.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es disneychannel.html. ¡VERIFÍCALO!
     },
     {
       "id": "fox-sports-premium",
       "nombre": "Fox Sports Premium",
       "slug": "foxsportspremium.html" 
-      // Asumiendo que el slug es foxsportspremium.html. Si es diferente, corrígelo.
+      // Asumiendo que el slug es foxsportspremium.html. ¡VERIFÍCALO!
     }
+    // Si tienes más canales, agrégalos aquí.
+    // Recuerda que el *último* elemento en esta lista NO debe tener una coma al final.
   ]
 }
