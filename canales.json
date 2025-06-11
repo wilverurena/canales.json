@@ -1,5 +1,5 @@
 {
-  "url_base": "https://embed.ksdjugfsddeports.fun/embed2/",
+  "url_base": "https://embed.ksdjugfsddeports.fun/embed/",
   "canales": [
     {
       "id": "tnt-novelas",
@@ -9,32 +9,32 @@
     {
       "id": "universal-cinema",
       "nombre": "Universal Cinema",
-      "slug": "universalcinema.html"
+      "slug": "universalcinema.html" 
     },
     {
       "id": "nick-jr",
       "nombre": "Nick Jr",
-      "slug": "nickjr.html"
+      "slug": "nickjr.html" 
     },
     {
       "id": "nick",
       "nombre": "Nick",
-      "slug": "nick.html"
+      "slug": "nick.html" 
     },
     {
       "id": "discovery-kids",
       "nombre": "Discovery Kids",
-      "slug": "discoverykids.html"
+      "slug": "discoverykids.html" 
     },
     {
       "id": "telemundo-51",
       "nombre": "Telemundo 51",
-      "slug": "telemundo51.html"
+      "slug": "telemundo51.html" 
     },
     {
       "id": "telemundo-puerto-rico",
       "nombre": "Telemundo Puerto Rico",
-      "slug": "telemundopuertorico.html"
+      "slug": "telemundopuertorico.html" 
     },
     {
       "id": "cartoon-network",
@@ -44,12 +44,12 @@
     {
       "id": "disney-channel",
       "nombre": "Disney Channel",
-      "slug": "disneychannel.html"
+      "slug": "disneychannel.html" 
     },
     {
       "id": "fox-sports-premium",
       "nombre": "Fox Sports Premium",
-      "slug": "foxsportspremium.html"
+      "slug": "foxsportspremium.html" 
     }
   ]
 }
